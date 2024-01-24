@@ -2,7 +2,7 @@
 
 This project is a practical exploration of Node.js, a JavaScript runtime for building scalable server-side applications, and Express, a lightweight web application framework. 
 
-This is part of the freeCodeCamp curriculum as part of their 'Back End Development and APIs' certification, and I so I undertook this project for studying purposes. Do check package.json for other details.
+This is part of the freeCodeCamp curriculum as part of their 'Back End Development and APIs' certification, and so I undertook this project for studying purposes. Do check package.json for other details.
 
 ## Table of Contents
 
