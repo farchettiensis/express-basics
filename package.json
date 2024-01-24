@@ -1,5 +1,7 @@
 {
+  "author": "Fernando Belmonte Archetti",
   "name": "fcc-learn-node-with-express",
+  "description": "A practical exploration of Node.js and Express basics.",
   "version": "0.1.0",
   "dependencies": {
     "body-parser": "^1.15.2",
@@ -11,5 +13,6 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
-  }
+  },
+  "keywords": ["node", "express", "freecodecamp", "api", "rest", "json", "routing", "middleware"]
 }
